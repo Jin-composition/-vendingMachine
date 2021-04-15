@@ -199,4 +199,3 @@ void countFunc(void)//카운트다운 함수 정의
 
     return ;//카운트 다운 함수 종료
 }
-
